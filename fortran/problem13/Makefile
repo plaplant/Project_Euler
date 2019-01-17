@@ -1,5 +1,5 @@
 # Compiler
-FC = gfortran-mp-4.8
+FC = gfortran-mp-8
 FFLAGS = -O3
 
 # Object files
